@@ -4,4 +4,4 @@ ls -l
 
 ls -l /opt
 
-ls
+ls -la
