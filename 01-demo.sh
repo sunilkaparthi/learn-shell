@@ -6,4 +6,4 @@ ls -l /opt
 
 mkdir
 
-ls -l
+ls -lh
